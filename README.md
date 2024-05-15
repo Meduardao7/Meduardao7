@@ -1,4 +1,4 @@
-### Bem Vindos ao meu perfil!!!! :👯
+### Bem Vindos ao meu perfil!!!! 👯
 
 Meu nome é duda, e estou estudando no alura, desenvolvendo a linguagem java. 
 Vou utilizar esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
