@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bem Vindos ao meu perfil!!!! :👯
+
+Meu nome é duda, e estou estudando no alura, desenvolvendo a linguagem java. 
+Vou utilizar esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+### Entre em contato comigo 
+
+00001122177318SP@al.educacao.sp.gov.br
 
 <!--
 **Meduardao7/Meduardao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
